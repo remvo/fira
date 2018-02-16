@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+numpy = "*"
+pyserial = "==3.4"
+scipy = "==0.19.1"
+opencv-python = "*"
+"pyqt5" = "*"
+sip = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"

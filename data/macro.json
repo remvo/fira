@@ -1,0 +1,1848 @@
+{
+  "magic rope": [
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Hello. I am Robinion."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "I have a pair of advanced intelligent grippers from Seed Robotics, which allows me to grasp and manipulate many objects. Let me show you."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Please give me the rope."
+    },
+    {
+      "checked": false,
+      "command": "delay",
+      "name": "delay",
+      "data": 3
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Magic rope 1",
+      "data": [
+        255,
+        21,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 4
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let us do some magic. One. Two. Three."
+    },
+    {
+      "checked": false,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Magic rope 2",
+      "data": [
+        255,
+        22,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 2
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Rope straight."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Is not this cool. Magic of Seed Robotics grippers."
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Drop rope."
+    },
+    {
+      "checked": false,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Magic rope 3",
+      "data": [
+        255,
+        23,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Thanks a lot."
+    },
+    {
+      "checked": false,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": false,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Bye Bye."
+    }
+  ],
+  "magic marble": [
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Hello, I am Robinion. I am 5 years old. I am team ZSTT."
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "This magic show is my debut."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik is a magic show assistant."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "The magic to show today is a trick using marbles and bottles."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Please give me a bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay,ok"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip bottle",
+      "data": [
+        255,
+        24,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik please put the coin in the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "impossible"
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "I am sorry. Are you always this clumsy? "
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "I did not know transdimensional relativity is difficult for humans."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay,ok"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip marble",
+      "data": [
+        255,
+        25,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let\u2019s do some magic."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "show,us,me"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "drop marble",
+      "data": [
+        255,
+        26,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 13
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "fake,pake"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Go to init motion",
+      "data": [
+        255,
+        27,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "No. I did not. Would I do that to you?"
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "What are you talking about? Go and stop embarrassing me."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Okay. I will show you second magic. give me the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip bottle2",
+      "data": [
+        255,
+        28,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 7
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the paper guide."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip paper",
+      "data": [
+        255,
+        29,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 12
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "This time, I will make It even harder. Put the coin on top of the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the coin."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip coin",
+      "data": [
+        255,
+        30,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 15
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip marble",
+      "data": [
+        255,
+        31,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 11
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let us do some magic"
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "show,me,us"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "drop marble",
+      "data": [
+        255,
+        32,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 10
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Thanks a lot."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "bye bye."
+    }
+  ],
+  "magic marble1": [
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Hello, I am Robinion. I am 5 years old. I am team ZSTT."
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "This magic show is my debut."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik is a magic show assistant."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "The magic to show today is a trick using marbles and bottles."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Please give me a bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay,ok"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip bottle",
+      "data": [
+        255,
+        24,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik please put the coin in the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "impossible"
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "I am sorry. Are you always this clumsy? "
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "I did not know transdimensional relativity is difficult for humans."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay,ok"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip marble",
+      "data": [
+        255,
+        25,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let\u2019s do some magic."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "show,us,me"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "drop marble",
+      "data": [
+        255,
+        26,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 13
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "fake,pake"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Go to init motion",
+      "data": [
+        255,
+        27,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 60
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "No. I did not. Would I do that to you?"
+    },
+    {
+      "checked": false,
+      "command": "tts",
+      "name": "tts",
+      "data": "What are you talking about? Go and stop embarrassing me."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Okay. I will show you second magic. give me the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip bottle2",
+      "data": [
+        255,
+        28,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 7
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the paper guide."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip paper",
+      "data": [
+        255,
+        29,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 15
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "This time, I will make It even harder. Put the coin on top of the bottle."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the coin."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip coin",
+      "data": [
+        255,
+        30,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 20
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay.ok."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip marble",
+      "data": [
+        255,
+        31,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 13
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let us do some magic"
+    },
+    {
+      "checked": false,
+      "command": "speech",
+      "name": "speech",
+      "data": "show,me,us"
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "drop marble",
+      "data": [
+        255,
+        32,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 10
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Thanks a lot."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "bye bye."
+    }
+  ],
+  "magic marble 2": [
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Hello, I am Robinion. I am 5 years old. I am team ZSTT."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik is a magic show assistant."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "The real magic to show today is a trick using marbles and bottles."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik!!"
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 35
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Okay let us go."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Please give me a bottle."
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay, ok "
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Grip bottle ",
+      "data": [
+        255,
+        24,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay, ok "
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Grip marble ",
+      "data": [
+        255,
+        25,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let us do some magic."
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "show, us "
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Drop marble ",
+      "data": [
+        255,
+        26,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 13
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "cheat, fake, pake "
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 5
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "What are you talking about? Go and stop embarrassing me."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Go to init motion  ",
+      "data": [
+        255,
+        27,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 2
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "Init motion  ",
+      "data": [
+        255,
+        7,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Okay. I will show you real magic. "
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "This magic is real!! A new magic bottle does not have a hole like before bottle."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Everybody check!"
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Jaesik please explain"
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 20
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay, ok, let"
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the bottle."
+    },
+    {
+      "checked": true,
+      "command": "speech",
+      "name": "speech",
+      "data": "okay, ok "
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 1
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip bottle2",
+      "data": [
+        255,
+        28,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 7
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the paper guide."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip paper",
+      "data": [
+        255,
+        29,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 12
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "This time, I will make It even harder. Put the coin on top of the bottle."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the coin."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip coin",
+      "data": [
+        255,
+        30,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 15
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Give me the marble."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "grip marble ",
+      "data": [
+        255,
+        31,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 10
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Now let us do real magic."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "drop marble",
+      "data": [
+        255,
+        32,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "delay",
+      "name": "delay",
+      "data": 10
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "You guys saw a really expensive magic show. But it is free."
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "Thanks a lot."
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "greeting",
+      "data": [
+        255,
+        20,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        120,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "tts",
+      "name": "tts",
+      "data": "bye bye."
+    }
+  ],
+  "test": [
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "sit",
+      "data": [
+        255,
+        1,
+        0,
+        0,
+        205,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        90,
+        254,
+        254
+      ]
+    },
+    {
+      "checked": true,
+      "command": "motion",
+      "name": "backward",
+      "data": [
+        255,
+        3,
+        10,
+        10,
+        205,
+        20,
+        20,
+        5,
+        7,
+        0,
+        0,
+        130,
+        130,
+        125,
+        90,
+        254,
+        254
+      ]
+    }
+  ]
+}

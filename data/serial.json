@@ -1,0 +1,6 @@
+{
+  "port": "Test",
+  "baudrate": 9600,
+  "timeout": 5,
+  "delay": 1
+}
